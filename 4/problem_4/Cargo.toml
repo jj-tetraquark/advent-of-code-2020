@@ -1,0 +1,12 @@
+[package]
+name = "problem_4"
+version = "0.1.0"
+authors = ["JJ Wilkinson <jj.wilkinson@ultraleap.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+itertools = "0.9.0"
+regex = "1"
+lazy_static = "1.3.0"
